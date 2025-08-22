@@ -20,6 +20,7 @@ html {
 
 body {
   backdrop-filter: blur(150px);
+  -webkit-backdrop-filter: blur(150px)
   min-height: 100vh;
 }
 
@@ -270,4 +271,5 @@ footer p {
   font-size: 0.8em;
   text-align: center;
 }
+
 }
